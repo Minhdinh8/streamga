@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Giveaway Web UI — Dark (Setups)</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+    :root{
+      --bg:#0f1720; --card:#0f1725; --muted:#94a3b8; --accent:#10b981; --border:#1f2937; --surface:#071322;
+    }
+    body{font-family:Inter, Arial;margin:20px;color:#e6eef8;background:linear-gradient(180deg,#071021,#071827);}
+    .container{max-width:1100px;margin:0 auto}
+    .card{background:var(--card);border:1px solid var(--border);padding:14px;border-radius:10px;margin-bottom:12px}
+    label{display:block;font-size:13px;color:var(--muted);margin-top:8px}
+    input, select, textarea{padding:8px;margin:6px 0;width:100%;box-sizing:border-box;background:var(--surface);border:1px solid var(--border);color:#e6eef8;border-radius:6px}
+    button{padding:8px 12px;border-radius:8px;background:var(--accent);color:#041014;border:none;cursor:pointer;font-weight:600}
+    .row{display:flex;gap:10px;margin-top:8px;align-items:center}
+    .small{width:150px}
+    .extras-list{margin-top:8px}
+    .extras-row{display:flex;gap:8px;margin-bottom:8px}
+    .extras-row select, .extras-row input{flex:1}
+    .muted{color:var(--muted);font-size:13px}
+    .setup-list{display:flex;flex-direction:column;gap:8px;margin-top:8px}
+    .setup-item{padding:8px;border-radius:8px;background:rgba(0,0,0,0.08);display:flex;justify-content:space-between;align-items:center}
+    pre{background:#071322;padding:8px;overflow:auto;color:#cfefff;border-radius:6px;border:1px solid rgba(255,255,255,0.02)}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Giveaway Web UI — Setups</h1>
+
+    <div class="card">
+      <h3>Create / Save Setup</h3>
+      <label>Setup name <input id="setupName" placeholder="e.g. default-giveaway"></label>
+      <div class="row">
+        <div style="flex:1"><label>Guild <select id="guildSelect"></select></label></div>
+        <div style="width:300px"><label>Channel <select id="channelSelect"></select></label></div>
+      </div>
+
+      <div class="row">
+        <div style="flex:1"><label>Title <input id="title" value="Demo Giveaway"></label></div>
+        <div style="width:140px"><label>Duration (min) <input id="duration" type="number" value="1"></label></div>
+        <div style="width:120px"><label>Winners <input id="winners" type="number" value="1"></label></div>
+      </div>
+
+      <label>Base entries per user <input id="based" type="number" value="1"></label>
+
+      <label>Extras (select role + extra)</label>
+      <div class="extras-list" id="extrasList"></div>
+      <div style="margin-top:8px"><button id="addExtraBtn" style="background:transparent;border:1px solid var(--border);color:var(--muted)">+ Add extra row</button></div>
+
+      <label>ClientSeed (optional)</label>
+      <input id="clientSeed" placeholder="optional clientSeed for this setup">
+
+      <div class="row" style="margin-top:10px">
+        <button id="saveSetupBtn">Save Setup</button>
+        <button id="createDirectBtn" style="background:transparent;border:1px solid rgba(255,255,255,0.03);color:var(--muted)">Create Giveaway Now</button>
+        <div style="flex:1"></div>
+        <div class="muted">After saving, use <code>$start &lt;setupName&gt;</code> in Discord (admin only) to start this setup.</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Saved Setups</h3>
+      <div id="setupsList" class="setup-list"></div>
+    </div>
+
+    <div class="card">
+      <h3>Active Giveaways</h3>
+      <div id="giveaways"></div>
+    </div>
+  </div>
+
+  <template id="setupItemTpl">
+    <div class="setup-item">
+      <div>
+        <div><strong class="sname"></strong> <span class="muted smeta"></span></div>
+        <div class="muted sdesc"></div>
+      </div>
+      <div>
+        <button class="useBtn" style="margin-right:8px">Use (create now)</button>
+        <button class="delBtn" style="background:transparent;border:1px solid rgba(255,255,255,0.04);color:var(--muted)">Delete</button>
+      </div>
+    </div>
+  </template>
+
+  <template id="gwTemplate">
+    <div style="margin-bottom:8px;padding:8px;border-radius:6px;background:rgba(255,255,255,0.02)">
+      <div style="display:flex;justify-content:space-between">
+        <strong class="title"></strong>
+        <span class="meta muted"></span>
+      </div>
+      <div class="desc muted"></div>
+      <div style="margin-top:6px">Entries: <span class="entriesCount">0</span> — Winners: <span class="winnersCount">0</span></div>
+      <div style="margin-top:6px">
+        <button class="refreshBtn">Refresh</button>
+        <button class="rollBtn">Roll Now</button>
+      </div>
+      <pre class="raw" style="display:none"></pre>
+    </div>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
