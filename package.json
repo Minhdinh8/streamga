@@ -1,0 +1,22 @@
+{
+  "name": "trx-pf-giveaway-bot",
+  "version": "1.0.0",
+  "description": "Discord Giveaway Bot Provably-Fair (TRX block hash) with Web UI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1",
+    "ws": "^8.13.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
