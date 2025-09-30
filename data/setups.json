@@ -1,0 +1,63 @@
+{
+  "setups": [
+    {
+      "id": "1759055269933",
+      "name": "test",
+      "guildId": "818371741742137345",
+      "channelId": "818371741742137348",
+      "basedAmount": 1,
+      "durationMinutes": 1,
+      "winnersCount": 1,
+      "extras": [
+        {
+          "roleId": "1419279816145895496",
+          "extra": 2
+        }
+      ],
+      "clientSeed": null,
+      "createdAt": 1759055269933
+    },
+    {
+      "id": "1759057115824",
+      "name": "test2",
+      "title": "test2",
+      "guildId": "818371741742137345",
+      "channelId": "818371741742137348",
+      "basedAmount": 1,
+      "durationMinutes": 1,
+      "winnersCount": 1,
+      "extras": [
+        {
+          "roleId": "1419279816145895496",
+          "extra": 2
+        },
+        {
+          "roleId": "1419279838065332376",
+          "extra": 6
+        }
+      ],
+      "createdAt": 1759057115824
+    },
+    {
+      "id": "1759241253273",
+      "name": "streamga",
+      "title": "Stream Giveaway",
+      "guildId": "818371741742137345",
+      "channelId": "818371741742137348",
+      "basedAmount": 1,
+      "durationMinutes": 2,
+      "winnersCount": 1,
+      "extras": [
+        {
+          "roleId": "1419279816145895496",
+          "extra": 2
+        },
+        {
+          "roleId": "1419279838065332376",
+          "extra": 6
+        }
+      ],
+      "createdAt": 1759241253273
+    }
+  ]
+}

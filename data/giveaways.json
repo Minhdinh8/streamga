@@ -1,0 +1,822 @@
+{
+  "giveaways": [
+    {
+      "id": "1759055295083",
+      "title": "test",
+      "channelId": "818371741742137348",
+      "basedAmount": 1,
+      "extras": [
+        {
+          "roleId": "1419279816145895496",
+          "extra": 2
+        }
+      ],
+      "durationMinutes": 1,
+      "winnersCount": 1,
+      "createdAt": 1759055295083,
+      "endsAt": 1759055355083,
+      "entries": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "joinedAt": 1759055298509,
+          "roles": [
+            "1419279816145895496",
+            "818371741742137345"
+          ]
+        }
+      ],
+      "rolled": true,
+      "winners": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "float": 0.7161535363038516,
+          "hex": "b755d69156fc8c1b6dfcd6874db78ca5a41fd3a3659207c587580ed631a8cb4a2e8f42b9d6a2b41925ecb4db5e1c8c8ed83cd7ec5bb6b858c06740491ae1adb0",
+          "entryIndex": 2
+        }
+      ],
+      "messageId": "1421805709082755073",
+      "clientSeed": "000000000489ad71a0fb8fe8f7795452dff692373b0736b30b9e6f1ab7659c3a2",
+      "serverSeedPublic": "wahycasesuck",
+      "rollReport": {
+        "totalEntrants": 1,
+        "totalEntryRows": 3,
+        "sampleTopEntries": [
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.7161535363038516,
+            "index": 2
+          },
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.6091380991663481,
+            "index": 0
+          },
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.5458748035026538,
+            "index": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "1759056387896",
+      "title": "test",
+      "channelId": "818371741742137348",
+      "basedAmount": 1,
+      "extras": [
+        {
+          "roleId": "1419279816145895496",
+          "extra": 2
+        }
+      ],
+      "durationMinutes": 1,
+      "winnersCount": 1,
+      "createdAt": 1759056387896,
+      "endsAt": 1759056447896,
+      "entries": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "joinedAt": 1759056396898,
+          "roles": [
+            "1419279816145895496",
+            "818371741742137345"
+          ]
+        }
+      ],
+      "rolled": true,
+      "winners": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "float": 0.7877942738892549,
+          "hex": "c9ace2b254963123c7ebe1e035522a855d3de9d6f8f519052903be86b2acace5827f6bce31a5ef86f9e0ca42e37b1cc09d0b13c9e74754f72395d5ab1e3f5445",
+          "entryIndex": 0
+        }
+      ],
+      "messageId": "1421810292253392990",
+      "clientSeed": "{}2",
+      "serverSeedPublic": "wahycasesuck",
+      "rollReport": {
+        "totalEntrants": 1,
+        "totalEntryRows": 3,
+        "sampleTopEntries": [
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.7877942738892549,
+            "index": 0
+          },
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.6919471026848923,
+            "index": 1
+          },
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.2711351258643191,
+            "index": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "1759056835106",
+      "title": "test",
+      "channelId": "818371741742137348",
+      "basedAmount": 1,
+      "extras": [
+        {
+          "roleId": "1419279816145895496",
+          "extra": 2
+        }
+      ],
+      "durationMinutes": 1,
+      "winnersCount": 1,
+      "createdAt": 1759056835106,
+      "endsAt": 1759056895106,
+      "entries": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "joinedAt": 1759056838505,
+          "roles": [
+            "1419279816145895496",
+            "818371741742137345"
+          ]
+        },
+        {
+          "userId": "696253515533647902",
+          "username": "clc8787",
+          "joinedAt": 1759056868042,
+          "roles": [
+            "1419279838065332376",
+            "818371741742137345"
+          ]
+        }
+      ],
+      "rolled": true,
+      "winners": [
+        {
+          "userId": "696253515533647902",
+          "username": "clc8787",
+          "float": 0.9000956409317148,
+          "hex": "e66caafd12e964c3b79846a6664439e169a6b5527771782d832588e2fa0d63c25ea00e0c6a8cf0685a0ea894ab4d003b65a31ba4ad819fd2d2bc7ca57cbd1781",
+          "entryIndex": 0
+        }
+      ],
+      "messageId": "1421812168181157909",
+      "clientSeed": "{}2",
+      "serverSeedPublic": "wahycasesuck",
+      "rollReport": {
+        "totalEntrants": 2,
+        "totalEntryRows": 4,
+        "sampleTopEntries": [
+          {
+            "userId": "696253515533647902",
+            "username": "clc8787",
+            "float": 0.9000956409317148,
+            "index": 0
+          },
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.7877942738892549,
+            "index": 0
+          },
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.6919471026848923,
+            "index": 1
+          },
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.2711351258643191,
+            "index": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "1759057138790",
+      "title": "test2",
+      "channelId": "818371741742137348",
+      "basedAmount": 1,
+      "extras": [
+        {
+          "roleId": "1419279816145895496",
+          "extra": 2
+        },
+        {
+          "roleId": "1419279838065332376",
+          "extra": 6
+        }
+      ],
+      "durationMinutes": 1,
+      "winnersCount": 1,
+      "createdAt": 1759057138790,
+      "endsAt": 1759057198790,
+      "entries": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "joinedAt": 1759057142410,
+          "roles": [
+            "1419279816145895496",
+            "818371741742137345"
+          ]
+        },
+        {
+          "userId": "696253515533647902",
+          "username": "clc8787",
+          "joinedAt": 1759057155575,
+          "roles": [
+            "1419279838065332376",
+            "818371741742137345"
+          ]
+        }
+      ],
+      "rolled": true,
+      "winners": [
+        {
+          "userId": "696253515533647902",
+          "username": "clc8787",
+          "float": 0.9022430159423487,
+          "hex": "e6f965f6844c9ed8ff9a8b463024287524ed18245aec4d17a66775eadb02be18931fd7c941a3cac55e6daf08b778858fcaf4026d1332469bdef381575b0edb68",
+          "entryIndex": 4
+        }
+      ],
+      "messageId": "1421813441856933971",
+      "clientSeed": "{}2",
+      "serverSeedPublic": "wahycasesuck",
+      "rollReport": {
+        "totalEntrants": 2,
+        "totalEntryRows": 10,
+        "sampleTopEntries": [
+          {
+            "userId": "696253515533647902",
+            "username": "clc8787",
+            "float": 0.9022430159423487,
+            "index": 4
+          },
+          {
+            "userId": "696253515533647902",
+            "username": "clc8787",
+            "float": 0.9000956409317148,
+            "index": 0
+          },
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.7877942738892549,
+            "index": 0
+          },
+          {
+            "userId": "696253515533647902",
+            "username": "clc8787",
+            "float": 0.7380431791550887,
+            "index": 6
+          },
+          {
+            "userId": "696253515533647902",
+            "username": "clc8787",
+            "float": 0.7059826229387232,
+            "index": 1
+          },
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.6919471026848923,
+            "index": 1
+          },
+          {
+            "userId": "696253515533647902",
+            "username": "clc8787",
+            "float": 0.46103013512449526,
+            "index": 3
+          },
+          {
+            "userId": "696253515533647902",
+            "username": "clc8787",
+            "float": 0.2878679780307415,
+            "index": 2
+          },
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.2711351258643191,
+            "index": 2
+          },
+          {
+            "userId": "696253515533647902",
+            "username": "clc8787",
+            "float": 0.12208545353086982,
+            "index": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": "1759076720328",
+      "title": "test2",
+      "channelId": "818371741742137348",
+      "basedAmount": 1,
+      "extras": [
+        {
+          "roleId": "1419279816145895496",
+          "extra": 2
+        },
+        {
+          "roleId": "1419279838065332376",
+          "extra": 6
+        }
+      ],
+      "durationMinutes": 1,
+      "winnersCount": 1,
+      "createdAt": 1759076720328,
+      "endsAt": 1759076780328,
+      "entries": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "joinedAt": 1759076724418,
+          "roles": [
+            "1419279816145895496",
+            "1419279838065332376",
+            "818371741742137345"
+          ]
+        },
+        {
+          "userId": "696253515533647902",
+          "username": "clc8787",
+          "joinedAt": 1759076733607,
+          "roles": [
+            "1419279838065332376",
+            "818371741742137345"
+          ]
+        }
+      ],
+      "rolled": true,
+      "winners": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "float": 0.9082796650526395,
+          "hex": "e885042105de20a942e937cc28020bac2845f34b058acddbd99a8179d84318cf1e83264ad703d0e3c82a3d9ebf49b58488933cb4bfff59fd7451da3e42468052",
+          "entryIndex": 6
+        }
+      ],
+      "messageId": "1421895566883028992",
+      "clientSeed": "000000000489c96041f72985bcfb8764c25f58b78ffd3281dc900120387e60d42",
+      "serverSeedPublic": "wahycasesuck",
+      "rollReport": {
+        "clientSeed": "000000000489c96041f72985bcfb8764c25f58b78ffd3281dc900120387e60d42",
+        "totalEntrants": 2,
+        "totalEntryRows": 14,
+        "entrants": [
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "entriesCount": 7,
+            "floats": [
+              0.24570496080687265,
+              0.2715481047394225,
+              0.0410967068135992,
+              0.5615997439947285,
+              0.7191227480686277,
+              0.8297848632662177,
+              0.9082796650526395
+            ]
+          },
+          {
+            "userId": "696253515533647902",
+            "username": "clc8787",
+            "entriesCount": 7,
+            "floats": [
+              0.4818807726047623,
+              0.6559863810558895,
+              0.044975772015603724,
+              0.8409365138665233,
+              0.7234630051518299,
+              0.7973033292328933,
+              0.16706825229003938
+            ]
+          }
+        ],
+        "winners": [
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.9082796650526395,
+            "hex": "e885042105de20a942e937cc28020bac2845f34b058acddbd99a8179d84318cf1e83264ad703d0e3c82a3d9ebf49b58488933cb4bfff59fd7451da3e42468052",
+            "entryIndex": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "1759076746031",
+      "title": "test2",
+      "channelId": "818371741742137348",
+      "basedAmount": 1,
+      "extras": [
+        {
+          "roleId": "1419279816145895496",
+          "extra": 2
+        },
+        {
+          "roleId": "1419279838065332376",
+          "extra": 6
+        }
+      ],
+      "durationMinutes": 1,
+      "winnersCount": 1,
+      "createdAt": 1759076746031,
+      "endsAt": 1759076806031,
+      "entries": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "joinedAt": 1759076759128,
+          "roles": [
+            "1419279816145895496",
+            "1419279838065332376",
+            "818371741742137345"
+          ]
+        },
+        {
+          "userId": "696253515533647902",
+          "username": "clc8787",
+          "joinedAt": 1759076779277,
+          "roles": [
+            "1419279838065332376",
+            "818371741742137345"
+          ]
+        }
+      ],
+      "rolled": true,
+      "winners": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "float": 0.9591670720731783,
+          "hex": "f58bf925f451f8f56390e5133a950118a11f7479b3a29581687a99d376094acd1598b64cf16bfe8b4aaadc6f057886eac0ef2b90a3a78fb48f4260d3618fea1c",
+          "entryIndex": 5
+        }
+      ],
+      "messageId": "1421895675947384983",
+      "clientSeed": "{}2",
+      "serverSeedPublic": "wahycasesuck",
+      "createdBy": "439739585811972107",
+      "rollReport": {
+        "clientSeed": "{}2",
+        "totalEntrants": 2,
+        "totalEntryRows": 14,
+        "entrants": [
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "entriesCount": 7,
+            "floats": [
+              0.7877942738892549,
+              0.6919471026848923,
+              0.2711351258643191,
+              0.486411462824841,
+              0.05183969324982072,
+              0.9591670720731783,
+              0.9227949980881187
+            ]
+          },
+          {
+            "userId": "696253515533647902",
+            "username": "clc8787",
+            "entriesCount": 7,
+            "floats": [
+              0.9000956409317148,
+              0.7059826229387232,
+              0.2878679780307415,
+              0.46103013512449526,
+              0.9022430159423487,
+              0.12208545353086982,
+              0.7380431791550887
+            ]
+          }
+        ],
+        "winners": [
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.9591670720731783,
+            "hex": "f58bf925f451f8f56390e5133a950118a11f7479b3a29581687a99d376094acd1598b64cf16bfe8b4aaadc6f057886eac0ef2b90a3a78fb48f4260d3618fea1c",
+            "entryIndex": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": "1759241271655",
+      "title": "Stream Giveaway",
+      "channelId": "818371741742137348",
+      "basedAmount": 1,
+      "extras": [
+        {
+          "roleId": "1419279816145895496",
+          "extra": 2
+        },
+        {
+          "roleId": "1419279838065332376",
+          "extra": 6
+        }
+      ],
+      "durationMinutes": 2,
+      "winnersCount": 1,
+      "createdAt": 1759241271655,
+      "endsAt": 1759241391655,
+      "entries": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "joinedAt": 1759241274824,
+          "roles": [
+            "1419279816145895496",
+            "1419279838065332376",
+            "818371741742137345"
+          ]
+        },
+        {
+          "userId": "696253515533647902",
+          "username": "clc8787",
+          "joinedAt": 1759241314606,
+          "roles": [
+            "1419279838065332376",
+            "818371741742137345"
+          ]
+        }
+      ],
+      "rolled": true,
+      "winners": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "float": 0.9591670720731783,
+          "hex": "f58bf925f451f8f56390e5133a950118a11f7479b3a29581687a99d376094acd1598b64cf16bfe8b4aaadc6f057886eac0ef2b90a3a78fb48f4260d3618fea1c",
+          "entryIndex": 5
+        }
+      ],
+      "messageId": "1422585755464892428",
+      "clientSeed": "{}2",
+      "serverSeedPublic": "wahycasesuck",
+      "createdBy": "439739585811972107",
+      "rollReport": {
+        "clientSeed": "{}2",
+        "totalEntrants": 2,
+        "totalEntryRows": 14,
+        "entrants": [
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "entriesCount": 7,
+            "floats": [
+              0.7877942738892549,
+              0.6919471026848923,
+              0.2711351258643191,
+              0.486411462824841,
+              0.05183969324982072,
+              0.9591670720731783,
+              0.9227949980881187
+            ]
+          },
+          {
+            "userId": "696253515533647902",
+            "username": "clc8787",
+            "entriesCount": 7,
+            "floats": [
+              0.9000956409317148,
+              0.7059826229387232,
+              0.2878679780307415,
+              0.46103013512449526,
+              0.9022430159423487,
+              0.12208545353086982,
+              0.7380431791550887
+            ]
+          }
+        ],
+        "winners": [
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.9591670720731783,
+            "hex": "f58bf925f451f8f56390e5133a950118a11f7479b3a29581687a99d376094acd1598b64cf16bfe8b4aaadc6f057886eac0ef2b90a3a78fb48f4260d3618fea1c",
+            "entryIndex": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": "1759243353551",
+      "title": "Stream Giveaway",
+      "channelId": "818371741742137348",
+      "basedAmount": 1,
+      "extras": [
+        {
+          "roleId": "1419279816145895496",
+          "extra": 2
+        },
+        {
+          "roleId": "1419279838065332376",
+          "extra": 6
+        }
+      ],
+      "durationMinutes": 2,
+      "winnersCount": 1,
+      "createdAt": 1759243353551,
+      "endsAt": 1759243473551,
+      "entries": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "joinedAt": 1759243355538,
+          "roles": [
+            "1419279816145895496",
+            "1419279838065332376",
+            "818371741742137345"
+          ]
+        },
+        {
+          "userId": "696253515533647902",
+          "username": "clc8787",
+          "joinedAt": 1759243363366,
+          "roles": [
+            "1419279838065332376",
+            "818371741742137345"
+          ]
+        }
+      ],
+      "rolled": true,
+      "winners": [
+        {
+          "userId": "696253515533647902",
+          "username": "clc8787",
+          "float": 0.9487855791654738,
+          "hex": "f2e39c996ea007de959f4d15d3f18d2be2118b5dd612f8e32aa13c537405912d",
+          "entryIndex": 5
+        }
+      ],
+      "messageId": "1422594477096173648",
+      "clientSeed": "00000000048aa3621d3e535bd842eaecf5bcde91a8507295df5ef81ca97bf508",
+      "serverSeedPublic": "wahycasesuck",
+      "rollReport": {
+        "clientSeed": "00000000048aa3621d3e535bd842eaecf5bcde91a8507295df5ef81ca97bf508",
+        "totalEntrants": 2,
+        "totalEntryRows": 14,
+        "entrants": [
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "entriesCount": 7,
+            "floats": [
+              0.7330105864142624,
+              0.45111900551563955,
+              0.7514617197443227,
+              0.44574385687015994,
+              0.6756805299154167,
+              0.08872523602654914,
+              0.9089252494209006
+            ]
+          },
+          {
+            "userId": "696253515533647902",
+            "username": "clc8787",
+            "entriesCount": 7,
+            "floats": [
+              0.05906097993766579,
+              0.18768786520530112,
+              0.04228156527152649,
+              0.5112519357653555,
+              0.2358150895643294,
+              0.9487855791654738,
+              0.8451464508255195
+            ]
+          }
+        ],
+        "winners": [
+          {
+            "userId": "696253515533647902",
+            "username": "clc8787",
+            "float": 0.9487855791654738,
+            "hex": "f2e39c996ea007de959f4d15d3f18d2be2118b5dd612f8e32aa13c537405912d",
+            "entryIndex": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": "1759244270641",
+      "title": "Stream Giveaway",
+      "channelId": "818371741742137348",
+      "basedAmount": 1,
+      "extras": [
+        {
+          "roleId": "1419279816145895496",
+          "extra": 2
+        },
+        {
+          "roleId": "1419279838065332376",
+          "extra": 6
+        }
+      ],
+      "durationMinutes": 2,
+      "winnersCount": 1,
+      "createdAt": 1759244270641,
+      "endsAt": 1759244390641,
+      "entries": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "joinedAt": 1759244273757,
+          "roles": [
+            "1419279816145895496",
+            "1419279838065332376",
+            "818371741742137345"
+          ]
+        },
+        {
+          "userId": "696253515533647902",
+          "username": "clc8787",
+          "joinedAt": 1759244280943,
+          "roles": [
+            "1419279838065332376",
+            "818371741742137345"
+          ]
+        }
+      ],
+      "rolled": true,
+      "winners": [
+        {
+          "userId": "439739585811972107",
+          "username": "minhcolaochim",
+          "float": 0.9603586367599779,
+          "hex": "f5da104950b4283b26adbbbdeb6c00766cc309a4aede90c8011cba82a069865f",
+          "entryIndex": 0
+        }
+      ],
+      "messageId": "1422598322790727692",
+      "clientSeed": "00000000048aa38f6157d14be16568256286cedc486cfae4fd5fa85076301804",
+      "serverSeedPublic": "wahycasesuck",
+      "rollReport": {
+        "clientSeed": "00000000048aa38f6157d14be16568256286cedc486cfae4fd5fa85076301804",
+        "totalEntrants": 2,
+        "totalEntryRows": 14,
+        "entrants": [
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "entriesCount": 7,
+            "floats": [
+              0.9603586367599779,
+              0.6278833431141781,
+              0.5867383324663564,
+              0.6668220896867687,
+              0.7242125735697138,
+              0.922598381937833,
+              0.5581216580726778
+            ]
+          },
+          {
+            "userId": "696253515533647902",
+            "username": "clc8787",
+            "entriesCount": 7,
+            "floats": [
+              0.6621167511219608,
+              0.8311625474717039,
+              0.7690997149385135,
+              0.902699517367455,
+              0.7986246152140655,
+              0.8024217249879502,
+              0.7456044336947474
+            ]
+          }
+        ],
+        "winners": [
+          {
+            "userId": "439739585811972107",
+            "username": "minhcolaochim",
+            "float": 0.9603586367599779,
+            "hex": "f5da104950b4283b26adbbbdeb6c00766cc309a4aede90c8011cba82a069865f",
+            "entryIndex": 0
+          }
+        ]
+      }
+    }
+  ]
+}
